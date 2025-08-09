@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🌸 Anushka Vishwakarma
 
-<!--
-**anushkaanushka11111-arch/anushkaanushka11111-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋  
+I’m **Anushka Vishwakarma**, currently learning **Web Development** and exploring the exciting world of building things for the web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I’m Learning
+- HTML, CSS, and JavaScript  
+- Responsive Web Design  
+- Frontend development basics  
+- Git & GitHub for version control  
+
+---
+
+## 🚀 Goals
+- Become proficient in frontend development  
+- Build real-world projects to strengthen my skills  
+- Learn backend development in the future  
+
+---
+
+## 📫 Connect With Me
+- GitHub: [AnushkaVishwakarma] 
+- Email: anushkaanushka11111@gmail.com  
+
+---
+
+✨ _"Every great developer you know once was a beginner."_ ✨
